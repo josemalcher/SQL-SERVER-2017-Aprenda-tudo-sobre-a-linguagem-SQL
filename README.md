@@ -1,4 +1,4 @@
-# Bootstrap 4 na prática
+# SQL SERVER 2017 - Aprenda tudo sobre a linguagem SQL
 
 https://www.udemy.com/sql-server-2017-fundamentos-profissionais-em-t-sql/learn/v4/overview
 
