@@ -1,8 +1,6 @@
 # SQL SERVER 2017 - Aprenda tudo sobre a linguagem SQL
 
-https://www.udemy.com/sql-server-2017-fundamentos-profissionais-em-t-sql/learn/v4/overview
-
-Task: https://josemalcher.net/kanban/public/task/244/c1b8680b9e2b4305daf46fb0f202491ea8b958010a14999aebf4e6238976
+https://www.udemy.com/course/sql-server-2017-fundamentos-profissionais-em-t-sql/
 
 
 
@@ -25,6 +23,7 @@ Task: https://josemalcher.net/kanban/public/task/244/c1b8680b9e2b4305daf46fb0f20
 - [Seção: 13 - Cross Join](#parte13)   
 - [Seção: 14 - Inner Join](#parte14)   
 - [Seção: 15 - Outer Join](#parte15)   
+- [Seção: 16 - Além dos Join](#parte16)   
 
 
 
@@ -129,6 +128,13 @@ Task: https://josemalcher.net/kanban/public/task/244/c1b8680b9e2b4305daf46fb0f20
 ---
 
 ## <a name="parte15">Seção: 15 - Outer Join</a>
+
+
+[Voltar ao Índice](#indice)
+
+---
+
+## <a name="parte16">Seção: 16 - Além dos Join</a>
 
 
 [Voltar ao Índice](#indice)
